@@ -4,4 +4,11 @@
   height: 200px;
   margin: 10px;
   display: inline-block;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 5em;
+  text-align:left;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }

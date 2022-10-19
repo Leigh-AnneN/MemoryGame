@@ -5,12 +5,12 @@ let cardsFlipped = 0;
 let noClicking = false;
 
 const COLORS = [
-  "red",
+  "pink",
   "blue",
   "green",
   "orange",
   "purple",
-  "red",
+  "pink",
   "blue",
   "green",
   "orange",
